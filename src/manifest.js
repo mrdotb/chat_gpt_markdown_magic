@@ -1,9 +1,10 @@
 import { defineManifest } from '@crxjs/vite-plugin'
 
 export default defineManifest({
-  name: 'create-chrome-ext',
-  description: '',
-  version: '0.0.0',
+  name: 'chat-gpt-markdown-magic',
+  description:
+    'ChatGPT markdown magic is a chrome extension designed to seamlessly copy the output of ChatGPT conversations in markdown format.',
+  version: '1.0.0',
   manifest_version: 3,
   icons: {
     16: 'img/logo-16.png',
@@ -22,7 +23,7 @@ export default defineManifest({
   },
   content_scripts: [
     {
-      matches: ['http://*/*', 'https://*/*'],
+      matches: ['https://chat.openai.com/*'],
       js: ['src/content/index.js'],
     },
   ],
@@ -32,5 +33,5 @@ export default defineManifest({
       matches: [],
     },
   ],
-  permissions: [],
+  permissions: ['clipboardWrite'],
 })

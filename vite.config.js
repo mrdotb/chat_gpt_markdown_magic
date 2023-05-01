@@ -15,7 +15,7 @@ export default defineConfig(({ mode }) => {
         },
       },
     },
-
     plugins: [crx({ manifest })],
+    define: { 'process.env': {} },
   }
 })
