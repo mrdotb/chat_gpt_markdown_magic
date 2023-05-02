@@ -20,3 +20,5 @@
 
 # secrets
 secrets.*.js
+
+build.zip

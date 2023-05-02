@@ -1,7 +1,7 @@
 import { defineManifest } from '@crxjs/vite-plugin'
 
 export default defineManifest({
-  name: 'chat-gpt-markdown-magic',
+  name: 'ChatGPT markdown magic',
   description:
     'ChatGPT markdown magic is a chrome extension designed to seamlessly copy the output of ChatGPT conversations in markdown format.',
   version: '1.0.0',
