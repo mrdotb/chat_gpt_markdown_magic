@@ -4,7 +4,6 @@
   line-height: 24px;
   font-weight: 400;
 
-  color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
 
@@ -13,16 +12,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
 }
 
 body {
@@ -35,7 +24,7 @@ main {
   margin: 0 auto;
 }
 
-h3 {
+.title {
   color: #f3e5ab;
   text-transform: uppercase;
   font-size: 1.5rem;
@@ -44,21 +33,18 @@ h3 {
   margin: 2rem auto;
 }
 
-h6 {
-  font-size: 0.5rem;
-  color: #333333;
-  margin: 0.5rem;
-}
-
-a {
-  font-size: 0.5rem;
+.link-source-code {
+  font-size: 1rem;
   margin: 0.5rem;
   color: #cccccc;
   text-decoration: none;
+
+  display: inline-flex;
+  gap: 0.3rem;
+  align-items: center;
 }
 
-@media (min-width: 480px) {
-  h3 {
-    max-width: none;
-  }
+.gh-icon {
+  width: 3rem;
+  fill: #cccccc;
 }

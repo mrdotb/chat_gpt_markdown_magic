@@ -1,12 +1,14 @@
-# chat_gpt_markdown_magic
+# ChatGPT markdown magic
 
-> a chrome extension tools built with Vite + Vanilla-js, and Manifest v3
+> a chrome extension that enables users to easily copy the output of ChatGPT as markdown-formatted text. With just a click of a button, you can obtain the generated text in markdown format, ready for pasting into your favorite text editor or note-taking app
+
+## Demo
+
+[youtube](https://youtu.be/urK86TzxUNg)
 
 ## Installing
 
-1. Check if your `Node.js` version is >= **14**.
-2. Change or configurate the name of your extension on `src/manifest`.
-3. Run `npm install` to install the dependencies.
+Install from the chrome web store
 
 ## Developing
 

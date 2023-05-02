@@ -16,11 +16,6 @@ export default defineManifest({
     default_popup: 'popup.html',
     default_icon: 'img/logo-48.png',
   },
-  options_page: 'options.html',
-  background: {
-    service_worker: 'src/background/index.js',
-    type: 'module',
-  },
   content_scripts: [
     {
       matches: ['https://chat.openai.com/*'],
