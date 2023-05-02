@@ -1,2 +1,88 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1656512849624" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2224" width="256" height="256" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css">@font-face { font-family: feedback-iconfont; src: url("//at.alicdn.com/t/font_1031158_u69w8yhxdu.woff2?t=1630033759944") format("woff2"), url("//at.alicdn.com/t/font_1031158_u69w8yhxdu.woff?t=1630033759944") format("woff"), url("//at.alicdn.com/t/font_1031158_u69w8yhxdu.ttf?t=1630033759944") format("truetype"); }
-</style></defs><path d="M512 0C228.266667 0 0 228.266667 0 512s228.266667 512 512 512 512-228.266667 512-512S795.733333 0 512 0z m224 727.466667c0 23.466667-17.066667 40.533333-40.533333 40.533333H328.533333c-21.333333 0-40.533333-19.2-40.533333-40.533333V296.533333c0-23.466667 17.066667-40.533333 40.533333-40.533333h366.933334c21.333333 0 40.533333 19.2 40.533333 40.533333v430.933334z" fill="#F3E5AB" p-id="2225"></path><path d="M473.6 727.466667h221.866667V411.733333H473.6v315.733334zM328.533333 727.466667h106.666667V411.733333h-106.666667v315.733334zM328.533333 296.533333v74.666667h369.066667V298.666667H328.533333z" fill="#F3E5AB" p-id="2226"></path></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   t="1656512849624"
+   class="icon"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   p-id="2224"
+   width="256"
+   height="256"
+   id="svg10"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="181.40285"
+     inkscape:cy="96.070643"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">@font-face { font-family: feedback-iconfont; src: url(&quot;//at.alicdn.com/t/font_1031158_u69w8yhxdu.woff2?t=1630033759944&quot;) format(&quot;woff2&quot;), url(&quot;//at.alicdn.com/t/font_1031158_u69w8yhxdu.woff?t=1630033759944&quot;) format(&quot;woff&quot;), url(&quot;//at.alicdn.com/t/font_1031158_u69w8yhxdu.ttf?t=1630033759944&quot;) format(&quot;truetype&quot;); }
+</style>
+  </defs>
+  <path
+     d="M512 0C228.266667 0 0 228.266667 0 512s228.266667 512 512 512 512-228.266667 512-512S795.733333 0 512 0z m224 727.466667c0 23.466667-17.066667 40.533333-40.533333 40.533333H328.533333c-21.333333 0-40.533333-19.2-40.533333-40.533333V296.533333c0-23.466667 17.066667-40.533333 40.533333-40.533333h366.933334c21.333333 0 40.533333 19.2 40.533333 40.533333v430.933334z"
+     fill="#F3E5AB"
+     p-id="2225"
+     id="path6" />
+  <path
+     d="M473.6 727.466667h221.866667V411.733333H473.6v315.733334zM328.533333 727.466667h106.666667V411.733333h-106.666667v315.733334zM328.533333 296.533333v74.666667h369.066667V298.666667H328.533333z"
+     fill="#F3E5AB"
+     p-id="2226"
+     id="path8" />
+  <circle
+     style="fill:#00a67e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+     id="path347"
+     cx="512"
+     cy="512"
+     r="512" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:384px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4"
+     x="267.21875"
+     y="663.78125"
+     id="text957"><tspan
+       sodipodi:role="line"
+       id="tspan955"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:384px;font-family:Impact;-inkscape-font-specification:Impact;fill:#ffffff;stroke-width:4"
+       x="267.21875"
+       y="663.78125">MD</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+     id="path3965"
+     inkscape:flatsided="false"
+     sodipodi:sides="5"
+     sodipodi:cx="354.79196"
+     sodipodi:cy="207.42535"
+     sodipodi:r1="99.998856"
+     sodipodi:r2="49.999424"
+     sodipodi:arg1="-0.38127906"
+     sodipodi:arg2="0.24703947"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 447.60984,170.21498 -44.33641,49.43695 15.59,64.54984 -60.71804,-26.88958 -56.57296,34.77397 6.81059,-66.05562 -50.55401,-43.05834 64.92722,-13.93505 25.32887,-61.38549 33.31663,57.44329 z"
+     inkscape:transform-center-x="-4.1134156"
+     inkscape:transform-center-y="-1.1281958"
+     transform="matrix(0,0.54435878,-0.54435878,0,786.67822,-29.464502)" />
+</svg>
